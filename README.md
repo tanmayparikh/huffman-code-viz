@@ -4,6 +4,9 @@ A simple web based project to generate a huffman tree for any input string.
 
 A local server is needed to run the code. (Use vscode live server to get started fast)
 
+### Demo
+![Demo](img/demo.gif)
+
 ### Final Result
 ![Final Result](img/final_tree.png)
 
